@@ -15,5 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_geeb.mk \
-    $(LOCAL_DIR)/omni_geeb.mk
+    $(LOCAL_DIR)/full_geeb.mk
